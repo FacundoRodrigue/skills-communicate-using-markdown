@@ -11,3 +11,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 var miVar = "Puse inmediiatamente ", myVar;
 ```
+#### La lista del dia
+- [ ] Terminar hitHub
+- [ ] Entender hitHub
+- [ ] Ser desarrollador Web
